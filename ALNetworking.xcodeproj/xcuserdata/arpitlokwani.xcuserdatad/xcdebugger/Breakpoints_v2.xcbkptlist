@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9325DBE9-ADCB-4544-B929-E83D355FDF60"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E4CDB21-0F5A-43F0-8E11-D608EB8E2C90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getUsersList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E4CDB21-0F5A-43F0-8E11-D608EB8E2C90 - 91befec786def4c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ALNetworking.CustomeTableViewController.getUsersList() -&gt; ()"
+                  moduleName = "ALNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arpitlokwani/Desktop/ALNetworking/CustomeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "578">
+               </Location>
+               <Location
+                  uuid = "0E4CDB21-0F5A-43F0-8E11-D608EB8E2C90 - 4c9ceedb2842d187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ALNetworking.RestManager.Results) -&gt; () in ALNetworking.CustomeTableViewController.getUsersList() -&gt; ()"
+                  moduleName = "ALNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arpitlokwani/Desktop/ALNetworking/CustomeTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEA2266A-5CEC-4966-9F13-3BAF9D9A05BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getUsersList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
